@@ -65,6 +65,13 @@ div:nth-of-type(2n-1) {
   background-color: red;
 }
 ```
+#### Pseudo element
+Indicates a specific part of a seletor
+```css
+selector::after {
+  content: "This is a pseudo element";
+}
+```
 #### CSS Cascade
 Order of CSS matters <br>
 The latest CSS will be applied
