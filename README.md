@@ -14,4 +14,9 @@ I'm currently following a Udemy course that covers the web development. I will l
 
 ### Javascript
 - [Section 16](Javascript/Section16.md)
-- [Section 17](Javscript/Section17.md)
+- [Section 17](Javascript/Section17.md)
+- [Section 18](Javascript/Section18.md)
+- [Section 19](Javascript/Section19.md)
+- [Section 21](Javascript/Section21.md)
+- [Section 22](Javascript/Section22.md)
+- [Section 23](Javascript/Section23.md)
