@@ -21,3 +21,5 @@ I'm currently following a Udemy course that covers the web development. I will l
 - [Section 22](Javascript/Section22.md)
 - [Section 23](Javascript/Section23.md)
 - [Section 24](Javascript/Section24.md)
+- [Section 25](Javascript/Section25.md)
+- [Section 27](Javascript/Section27.md)
