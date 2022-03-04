@@ -1,4 +1,4 @@
-# Chapter 27 Async JavaScript
+# Section 27 Async JavaScript
 
 ## The Call Stack
 It is a mechanism for an interpreter to keep track of its place in a script that calls multiple functions
